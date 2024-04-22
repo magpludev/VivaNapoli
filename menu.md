@@ -1,5 +1,7 @@
 # Menu
 
+<img src="img/img/pexels-rodolfoclix-1596884.jpg" width="300">
+
 ## Pizza Neapolitana
 ### *Tradycyjne włoskie ciasto z minimalnymi składnikami: mąka, woda, sól i drożdże, wyrabiane i pieczone w wysokiej temperaturze, charakteryzujące się cienkim, elastycznym brzegiem i miękkim, wilgotnym centrum.*
 1. Marinara - 29 zł
