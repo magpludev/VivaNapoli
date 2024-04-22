@@ -53,3 +53,21 @@
 |*pomidory San Marzano, Mozzarella Fior di Latte, włoska szynka Cotto*|
 |Crudo | 45 zł |
 |*pomidory San Marzano, Mozzarella Fior di Latte, Prosciutto Crudo, Speck, pomidorki koktajlowe, rukola, Parmigiano Reggiano DOP*|
+
+<img src="img/pexels-elevate-1269025.jpg" width="300">
+
+## Koktajle
+| Nazwa | Cena |
+|-----------|-----|
+|APEROL SPRITZ | 34 zł |
+|*Aperol , Prosecco , woda gazowana /*|
+|TANQUERAY NO. TEN COCTAIL | 35 zł |
+|*Gin Tanqueray No. Ten , Kinley tonic *|
+|NEGRONI | 30 zł |
+|*Gordon’s London Dry Gin ,  Campari , Wermut Martini Rosso*|
+|LONG ISLAND ICE TEA | 38 zł |
+|*Tequila Olmeca Blanco , wódka Wyborowa , Gordon's London Dry Gin , Cointreau , Rum Captain Morgan White , Coca Cola , cytryna *|
+|MARTINI FIERO & TONIC | 32 zł |
+|*Martini Fiero , Kinley tonic , pomarańcza*|
+
+
