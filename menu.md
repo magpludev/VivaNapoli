@@ -16,6 +16,7 @@
 |Aranchulo                   | 31 zŁ |
 |*arancini zlepione ze słynnego kurczaka gringo, risotto, parmezanu i jalapeno, kuleczki zawijamy w panko*|
 
+<img src="img/pexels-vince-2147491.jpg" width="300">
 
 ## Pizza Neapolitana
 ### *Tradycyjne włoskie ciasto z minimalnymi składnikami: mąka, woda, sól i drożdże, wyrabiane i pieczone w wysokiej temperaturze, charakteryzujące się cienkim, elastycznym brzegiem i miękkim, wilgotnym centrum.*
