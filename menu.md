@@ -2,6 +2,21 @@
 
 <img src="img/pexels-rodolfoclix-1596884.jpg" width="300">
 
+## Przystawki
+| Nazwa                      | Cena  |
+|----------------------------|-------|
+|Patatas Bravas              | 24 zł |
+|*pieczone ziemnaki, sos Pimenton, Crème Fraiche z czosnkiem, chimichurri, parmezan*|
+|Las Vegas Cheesy Grzanki    | 24 zł |
+|*grzanki z pieczywa czosnkowego z dużą ilością mozzarelli i cheddara*|
+|Skrzydełka Buffalo 5 szt.   | 24 zł |
+|*skrzydełka w naszym ultra intensywnym sosie Buffalo, dip Blue Cheese, świeża marchew i seler naciowy*|
+|Skrzydełka Buffalo 10 szt.  | 38 zł |
+|*skrzydełka w naszym ultra intensywnym sosie Buffalo, dip Blue Cheese, świeża marchew i seler naciowy*|
+|Aranchulo                   | 31 zŁ |
+|*arancini zlepione ze słynnego kurczaka gringo, risotto, parmezanu i jalapeno, kuleczki zawijamy w panko*|
+
+
 ## Pizza Neapolitana
 ### *Tradycyjne włoskie ciasto z minimalnymi składnikami: mąka, woda, sól i drożdże, wyrabiane i pieczone w wysokiej temperaturze, charakteryzujące się cienkim, elastycznym brzegiem i miękkim, wilgotnym centrum.*
 | Nazwa | Cena
@@ -20,6 +35,8 @@
 |*sos z włoskich pomidorów, mozzarella fior di latte, soczysty pulled pork, sos serowy, młode ziemniaki, jalapeno, dymka, czarny sezam*|
 |Vege Blue Wave | 50 zł |
 |*sos z włoskich pomidorów, mozzarella fior di latte, rozpływająca się w ustach Burrata, suszone na słońcu pomidory, rukola*|
+
+<img src="img/pexels-viniciusbenedit-1082343.jpg" width="300">
 
 ## Pizza Rzymska
 ### *Pizza rzymska, ma grubszą warstwę ciasta, często przyrządzaną z mąki pszennej, o lekko chrupiącej skórce, podobnej do chleba, i obficie posypaną składnikami, takimi jak pomidory, ser, i różnorodne dodatki.*
