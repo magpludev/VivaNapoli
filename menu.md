@@ -11,8 +11,8 @@
 7. Vege Blue Wave <br>*sos z włoskich pomidorów, mozzarella fior di latte, rozpływająca się w ustach Burrata, suszone na słońcu pomidory, rukola*
 
 ## Pizza Rzymska
-1. Margherita
-2. Piccante
-3. Capricciosa
-4. Cotto
-5. Crudo
+1. Margherita <br> *pomidory San Marzano, Mozzarella Fior di Latte, bazylia, niefiltrowana oliwa z oliwek extra vergine*
+2. Piccante <br>*pomidory San Marzano, Mozzarella Fior di Latte, Spianata Piccante, Mascarpone, świeżo mielony pieprz*
+3. Capricciosa <br>*pomidory San Marzano, Mozzarella Fior di Latte, grzyby leśne, pieczarki, włoska szynka Cotto*
+4. Cotto <br>*pomidory San Marzano, Mozzarella Fior di Latte, włoska szynka Cotto*
+5. Crudo <br>*pomidory San Marzano, Mozzarella Fior di Latte, Prosciutto Crudo, Speck, pomidorki koktajlowe, rukola, Parmigiano Reggiano DOP*
