@@ -1,2 +1,2 @@
 # pizzeriaDAVINCI
-Ten pllik należy do gałęzi koklajle.
+To jest strona restauracji pizzeriaDAVINCI
