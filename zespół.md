@@ -1,5 +1,5 @@
-#Zespół
+##Zespół
 
-## Kierownik
-## Dostawca
+### Kierownik
+### Dostawca
 
