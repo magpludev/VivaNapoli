@@ -1,7 +1,7 @@
 # Przepisy
 
-# Ciasto na pizze Neapolitańską
+## Ciasto na pizze Neapolitańską
 
-# Ciasto na pizze Rzymką
+## Ciasto na pizze Rzymką
 
-# Przystawki 
+## Przystawki 
