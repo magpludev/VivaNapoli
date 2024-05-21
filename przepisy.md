@@ -7,7 +7,7 @@
 ## Przystawki 
 
 ## Drinki 
-**Aperol Spritz**
+# **Aperol Spritz**
 
 Składniki
 - 90 ml Aperol
@@ -22,7 +22,7 @@ Przygotowanie:
 3, Delikatnie wymieszaj.
 4. Udekoruj plasterkiem pomarańczy.
 
-**Tanqueray No. Ten Cocktail**
+# **Tanqueray No. Ten Cocktail**
 
 Składniki:
 - 50 ml Gin Tanqueray No. Ten
@@ -37,7 +37,7 @@ Przygotowanie:
 4. Delikatnie wymieszaj.
 5.Udekoruj plasterkiem limonki lub grejpfruta.
 
-**Negroni**
+# **Negroni**
 
 Składniki:
 - 30 ml Gordon’s London Dry Gin
@@ -52,7 +52,7 @@ Przygotowanie:
 3. Delikatnie wymieszaj.
 4. Udekoruj skórką pomarańczową.
 
-**Long Island Iced Tea**
+# **Long Island Iced Tea**
 
 Składniki:
 - 15 ml Tequila Olmeca Blanco
@@ -74,7 +74,7 @@ Przygotowanie:
 5. Delikatnie wymieszaj.
 6. Udekoruj plasterkiem cytryny.
 
-**Martini Fiero & Tonic**
+# **Martini Fiero & Tonic**
 
 Składniki:
 - 50 ml Martini Fiero
