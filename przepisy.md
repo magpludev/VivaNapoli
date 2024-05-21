@@ -17,4 +17,18 @@
 
 ## Ciasto na pizze Rzymką
 
+**Składniki na ciasto**
+- 500 g mąki typu "00"
+- 325 ml wody
+- 15 g oliwy z oliwek
+- 10 g soli
+- 3 g drożdży świeżych
+
+**Przygotowanie ciasta**
+1. Rozpuść drożdże w połowie wody.
+2. Do dużej miski wsyp mąkę, dodaj rozpuszczone drożdże, resztę wody i oliwę. Wyrabiaj ciasto przez około 10 minut, aż będzie gładkie i elastyczne.
+3. Dodaj sól i wyrabiaj ciasto przez kolejne 5 minut.
+4. Przykryj ciasto ściereczką i odstaw na **2 godziny** w ciepłe miejsce do wyrośnięcia.
+5. Po tym czasie rozwałkuj ciasto na cienki **prostokątny** placek
+
 ## Przystawki 
