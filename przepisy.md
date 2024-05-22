@@ -32,6 +32,77 @@
 5. Po tym czasie rozwałkuj ciasto na cienki **prostokątny** placek
 
 ## Przystawki 
+**Patatas Bravas**
+-------------------------------
+**Składniki**
+- 4 duże ziemniaki, pokrojone w kostkę
+- 2 łyżki oliwy z oliwek
+- 1 łyżeczka papryki wędzonej (Pimenton)
+- 1/2 łyżeczki soli
+- 1/2 szklanki Crème Fraiche
+- 2 ząbki czosnku, przeciśnięte przez praskę
+- 1/4 szklanki sosu chimichurri
+- 1/4 szklanki startego parmezanu
+
+**Przygotowanie**
+1. Rozgrzej piekarnik do 200°C.
+2. Ziemniaki wymieszaj z oliwą, papryką wędzoną i solą. Ułóż na blasze wyłożonej papierem do pieczenia.
+3. Piecz przez 30-35 minut, aż ziemniaki będą złociste i chrupiące.
+4. W międzyczasie, w małej misce wymieszaj Crème Fraiche z przeciśniętym czosnkiem.
+5. Upieczone ziemniaki podawaj z sosem Pimenton, Crème Fraiche, chimichurri i posypane parmezanem.
+
+**Las Vegas Cheesy Grzanki VEGE**
+-------------------------------
+**Składniki**
+- 1 bagietka, pokrojona na kromki
+- 3 łyżki masła, roztopionego
+- 2 ząbki czosnku, przeciśnięte przez praskę
+- 1 szklanka startego sera mozzarella
+- 1 szklanka startego sera cheddar
+
+**Przygotowanie**
+1. Rozgrzej piekarnik do 180°C.
+2. Kromki bagietki posmaruj masłem wymieszanym z czosnkiem.
+3. Na każdą kromkę nałóż równą ilość mozzarelli i cheddara.
+4. Ułóż grzanki na blasze wyłożonej papierem do pieczenia.
+5. Piecz przez 10-12 minut, aż ser się roztopi i lekko zrumieni.
+
+**Skrzydełka Buffalo**
+-------------------------------
+**Składniki**
+- 5 lub 10 skrzydełek kurczaka
+- 1/2 szklanki sosu Buffalo
+- 2 łyżki masła
+- 1/2 szklanki dipu Blue Cheese
+- 2 marchewki, pokrojone w słupki
+- 2 łodygi selera naciowego, pokrojone w słupki
+
+**Przygotowanie**
+1. Rozgrzej piekarnik do 200°C.
+2. Skrzydełka ułóż na blasze wyłożonej papierem do pieczenia. Piecz przez 25-30 minut, aż będą chrupiące i złociste.
+3. W małym rondlu roztop masło i dodaj sos Buffalo. Podgrzewaj, aż składniki się połączą.
+4. Upieczone skrzydełka obtocz w sosie Buffalo.
+5. Podawaj z dipem Blue Cheese oraz słupkami marchewki i selera.
+
+**Aranchulo VEGE**
+-------------------------------
+**Składniki**
+- 2 szklanki ugotowanego risotto
+- 1/2 szklanki startego parmezanu
+- 1 jalapeno, drobno posiekane
+- 1 szklanka drobno posiekanego "kurczaka" roślinnego (lub innej alternatywy wegańskiej)
+- 1 szklanka mąki
+- 2 jajka, roztrzepane
+- 1 szklanka bułki tartej panko
+- Olej do smażenia
+
+**Przygotowanie**
+1. W dużej misce wymieszaj risotto, parmezan, jalapeno i posiekany "kurczak" roślinny.
+2. Z masy formuj kulki wielkości piłki golfowej.
+3. Każdą kulkę obtocz najpierw w mące, potem w jajku, a na końcu w bułce tartej panko.
+4. Rozgrzej olej w dużym garnku do 180°C.
+5. Smaż arancini na złocisty kolor, około 3-4 minut.
+6. Odsącz na papierowym ręczniku i podawaj na ciepło.
 
 ## Drinki 
 **Aperol Spritz**
