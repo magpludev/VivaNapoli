@@ -1,7 +1,3 @@
-Oczywiście! Oto przykładowe dane kontaktowe, które możesz umieścić na stronie pizzerii:
-
----
-
 **Viva Napoli Pizzeria**
 
 **Adres:**  
