@@ -40,6 +40,8 @@
 ## Przystawki 
 **Patatas Bravas**
 -------------------------------
+<img src="potatoes-8600211_1280.jpg" width="300">
+
 **Składniki**
 - 4 duże ziemniaki, pokrojone w kostkę
 - 2 łyżki oliwy z oliwek
@@ -59,6 +61,8 @@
 
 **Las Vegas Cheesy Grzanki VEGE**
 -------------------------------
+<img src="loaf-3535048_1280.jpg" width="300">
+
 **Składniki**
 - 1 bagietka, pokrojona na kromki
 - 3 łyżki masła, roztopionego
@@ -75,6 +79,8 @@
 
 **Skrzydełka Buffalo**
 -------------------------------
+<img src="chicken-wings-7576679_1280.jpg" width="300">
+
 **Składniki**
 - 5 lub 10 skrzydełek kurczaka
 - 1/2 szklanki sosu Buffalo
