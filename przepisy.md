@@ -1,5 +1,7 @@
 # Przepisy
 
+<img src="img_przepisy/pexels-viniciusbenedit-1082343.jpg" width="300">
+
 ## Ciasto na pizze Neapolitańską
 
 **Składniki na ciasto**
@@ -14,6 +16,8 @@
 3. Dodaj sól i wyrabiaj ciasto, aż będzie gładkie i elastyczne (około 10 minut).
 4. Przykryj ciasto ściereczką i odstaw na 2 godziny w ciepłe miejsce do wyrośnięcia.
 5. Po tym czasie podziel ciasto na 4 kule i odstaw na kolejne **6-8 godzin** do ponownego wyrośnięcia.
+
+<img src="img_przepisy/pexels-maxavans-5056625.jpg" width="300">
 
 ## Ciasto na pizze Rzymką
 
@@ -30,6 +34,8 @@
 3. Dodaj sól i wyrabiaj ciasto przez kolejne 5 minut.
 4. Przykryj ciasto ściereczką i odstaw na **2 godziny** w ciepłe miejsce do wyrośnięcia.
 5. Po tym czasie rozwałkuj ciasto na cienki **prostokątny** placek
+
+<img src="img_przepisy/pexels-vince-2147491.jpg" width="300">
 
 ## Przystawki 
 **Patatas Bravas**
