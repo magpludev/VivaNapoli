@@ -3,7 +3,7 @@ __________________________________
 
 **Nazwa: Viva Napoli**
 
-**Lokalizacja: Poznań, Polska**
+**Lokalizacja: Poznań, ul. Włoska **
 
 **Opis:**
 Viva Napoli to wyjątkowa restauracja w sercu Poznania, gdzie tradycja spotyka się z nowoczesnością. Specjalizujemy się w serwowaniu autentycznej pizzy neapolitańskiej oraz rzymskiej, przygotowywanej z najwyższej jakości składników sprowadzanych prosto z Włoch. Nasze menu obfituje również w różnorodne przystawki i wyborne drinki, które zaspokoją nawet najbardziej wymagające podniebienia. Przytulne wnętrze i przyjazna atmosfera naszej restauracji sprawią, że każda wizyta będzie niezapomnianym doświadczeniem kulinarnym. W sercu Poznania, Viva Napoli oferuje autentyczną włoską kuchnię, która zachwyci każdego miłośnika pizzy i włoskich przysmaków. Nasza restauracja to połączenie tradycji z nowoczesnością, gdzie każda potrawa przygotowywana jest z pasją i dbałością o najdrobniejsze szczegóły. Specjalizujemy się w serwowaniu pizzy neapolitańskiej, pieczonej w piecu opalanym drewnem, oraz pizzy rzymskiej, znanej z cienkiego i chrupiącego ciasta. Uzupełnieniem naszego menu są wyborne przystawki oraz koktajle, które idealnie komponują się z naszymi daniami. Zapraszamy do naszej przytulnej restauracji, gdzie poczujesz prawdziwą atmosferę Włoch i skosztujesz potraw, które przeniosą Cię w kulinarną podróż po Italii.
