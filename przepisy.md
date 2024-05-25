@@ -119,6 +119,8 @@
 ## Drinki 
 **Aperol Spritz**
 -------------------------------
+<img src="img_przepisy/cocktail-1542495_1280.jpg" width="300">
+
 Składniki
 - 90 ml Aperol
 - 90 ml Prosecco
@@ -149,6 +151,8 @@ Przygotowanie:
 
 **Negroni**
 -------------------------------
+<img src="img_przepisy/negroni-2412607_1280.jpg" width="300">
+
 Składniki:
 - 30 ml Gordon’s London Dry Gin
 - 30 ml Campari
@@ -164,6 +168,8 @@ Przygotowanie:
 
 **Long Island Iced Tea**
 -------------------------------
+<img src="img_przepisy/long-island-iced-tea-5374802_1280.jpg" width="300">
+
 Składniki:
 - 15 ml Tequila Olmeca Blanco
 - 15 ml wódka Wyborowa
@@ -186,6 +192,8 @@ Przygotowanie:
 
 **Martini Fiero & Tonic**
 -------------------------------
+<img src="img_przepisy/martini-548031_1280.jpg" width="300">
+
 Składniki:
 - 50 ml Martini Fiero
 - 150 ml Kinley tonic
